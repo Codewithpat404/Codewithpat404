@@ -12,7 +12,7 @@ I'm a curious learner from the Philippines who loves exploring the tech world.
 ## How to connect
 
 - Email me at Codewithpat404@gmail.com 
-- Facebook: https://www.facebook.com/
+- Facebook: https://www.facebook.com/Codewithpat404
 - Ask me about anything you want to know about me, but don't expect too much
 ## My skills and tools
 
