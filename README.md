@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Pat 👋
 
-<!--
-**Codewithpat404/Codewithpat404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious learner from the Philippines who loves exploring the tech world.
 
-Here are some ideas to get you started:
+## What I'm doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building awesome web apps with Python, Java, React, and more.
+- Learning new tools and languages every day.
+- Looking for cool projects to join and learn from.
+
+## How to connect
+
+- Email me at Codewithpat404@gmail.com 
+- Facebook: https://www.facebook.com/
+- 
+## My skills and tools
+
+- I know Python, Java, HTML, CSS, JavaScript, and PHP.
+- I use frameworks like Django, Bootstrap, and React.
+- I work with Git, VS Code, Jupyter Notebook, and Google Colab.
+
